@@ -1,4 +1,4 @@
-# 喜马拉雅极速版  
+# 喜马拉雅极速版 2323 
 # 此版本为本人自用，增加ios bark app推送（符合我本人自己的需求，增加一个新的Secrets-BARK_MACHINE_CODE
 <p align="center">
   <img src="xmly_speed.jpg" alt="喜马拉雅极速版收益" width='40%' height='40%'/>
@@ -65,7 +65,7 @@
 
 框中信息，不包含开头的`Cookie: `
 
-### 查看
+### 查看332
 
 点击 Actions -Workflows
 
